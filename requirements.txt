@@ -1,0 +1,9 @@
+torch
+torchvision
+jcopdl
+tqdm
+matplotlib
+seaborn
+scikit-learn
+numpy
+pillow
